@@ -1,0 +1,1433 @@
+@media(min-width: 1300px){
+    .interior-slider-section .slick-prev {
+        right: 10%;
+    }
+    .interior-slider-section .slick-next {
+        right: 7%;
+    }
+}
+
+@media(max-width: 1300px){
+    .container{
+        max-width: 1170px;
+    }
+
+    .lees-meer-section .right-sec{
+        padding-left: 0;
+    }
+
+    .interior-slider-section .slick-prev {
+        right: 80px;
+    }
+    .interior-slider-section .slick-next {
+        right: 40px;
+    }
+
+    .over-ons-info {
+        padding-left: 200px;
+    }
+
+    .newsletter-form-outer .gform-body{
+        max-width: 60%;
+    }
+    .newsletter-form-outer .gform_footer{
+        max-width: 40%;
+    }
+}
+
+@media (max-width: 1200px){
+
+    .site-header{padding: 13px 30px;}
+    .menu-level-1 > li {
+        padding: 0 10px;
+    }
+
+
+    h1,
+    h2,
+    .over-ons-head h1{font-size:30px}
+    .review-section h3, h3{font-size:26px; margin-bottom: 25px;}
+    .search-bar-wrap .search-box .two-col-control input[type="submit"]{width: 6%}
+    .search-bar-wrap .search-box .two-col-control input[type="search"]{width:90%;}
+    .search-bar-wrap ul.filter-listing li .filter-inner .img-thumb{width:15%}
+    .search-bar-wrap ul.filter-listing li .filter-inner .desc {width: 85%;} 
+    .search-bar-wrap ul.filter-listing li .filter-inner .desc p{font-size: 14px}
+    .search-bar-wrap ul.filter-listing li .filter-inner .img-thumb .bg-thumb{height: 60px}
+     .two-col-img-cont-wrap .content{padding: 15px 0}
+    .sec-article{padding:40px 0 55px}
+    .sec-podcast{padding:40px 0 55px}
+    .sec-two-col-img-cont{padding: 65px 0 45px}
+
+    .review-section .container,
+    .container{
+        max-width: 970px;
+    }
+    .home-banner {
+        padding: 150px 0;
+    }
+    .home-banner-title{
+        font-size: 55px;
+        margin-bottom: 30px;
+    }
+    .hello-txt{
+        font-size: 60px;
+    }
+    .ultherapy-section .right-sec{
+        padding: 20px 0px 20px 85px;
+    }
+    .powerfull-section .right-sec,
+    .book-consultent-section .right-sec,
+    .kalea-voor-mannen-detail {
+        padding-left: 45px;
+    }
+    .powerfull-section h1{
+        font-size: 40px;
+    }
+    .powerfull-section h1 span{
+        font-size: 55px;
+        bottom: -30px;
+    }
+    .book-consultent-img{
+        padding-left: 0;
+    }
+    .head-para-section {
+        padding: 15px 0 40px;
+    }
+    .title-para-link-inn {
+        padding: 75px 20px 22px;
+    }
+    .title-para-link-inn h3, .title-para-link-inn h3 a{
+        font-size: 20px;
+    }
+    .title-para-link-inn p{
+        margin-bottom: 55px;
+    }
+    .kalea-voor-mannen-section {
+        padding: 80px 0 50px;
+    }
+    .instagram-section {
+        padding: 50px 0;
+    }
+
+    .testimonial-section, .advice-section{
+        padding: 30px 0;
+    }
+    .advice-section .col-7,
+    .advice-section .col-5{
+        width: 50%;
+    }
+    .advice-image{
+        padding-right: 0;
+    }
+
+    .inner-page-banner{
+        
+    }
+    .inner-page-banner .banner-content{
+        margin-left: 0;
+        padding: 100px 0;
+    }
+    .banner-heading{
+        font-size: 40px;
+        margin-bottom: 25px;
+    }
+    .breadcrumb-section {
+        padding: 30px 0;
+    }
+    .fractional-microneedling-outer,
+    .small-container-outer {
+        padding: 40px 0;
+    }
+    .inject-img {
+        width: 200px;
+    }
+    .review-inner{
+        margin-bottom: 30px;
+    }
+    .review-author{
+        margin-bottom: 0;
+    }
+
+    .two-column-grid-content {
+        padding: 40px 15px 40px 30px;
+        max-width: 470px;
+    }
+    .two-column-grid-reverse-content {
+        padding: 40px 40px 40px 0;
+        max-width: 470px;
+    }
+    .face-slider-section {
+        padding: 20px 0 50px;
+    }
+    .two-column-grid-reverse-content h1,
+    .face-slider-section h2,
+    .face-slde-img-sec span{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .two-column-grid-reverse-content p {
+        font-size: 14px;
+        line-height: 1.5;
+        letter-spacing: normal;
+    }
+    .face-slider-section h3{
+        font-size: 24px;
+        line-height: 1.2;
+    }
+    .quote-inner-section p{
+        font-size: 32px;
+    }
+
+    .slick-arrow{
+        top: -40px;
+    }
+
+    .ervaringen-detail-banner-inner .banner-content{
+        padding: 150px 15px;
+    }
+
+    .blog-filter-result .col-4 {
+        margin-bottom: 70px;
+    }
+
+    .contact-top-section{
+        padding: 100px 0;
+    }
+
+    .over-ons-info {
+        padding-left: 100px;
+    }
+
+    .search-page-top h1{
+        margin-bottom: 100px;
+    }
+    .search-result h2 {
+        font-size: 22px;
+        margin-bottom: 12px;
+    }
+    .search-result p{
+        margin-bottom: 12px;
+    }
+
+    .newsletter-form-outer .gform-body{
+        max-width: 55%;
+    }
+    .newsletter-form-outer .gform_footer{
+        max-width: 45%;
+    }
+}
+
+@media (max-width:1024px){
+    .contact-img-cont-wrap{padding:0 50px}
+    .contact-img-cont-wrap .contact-img-box{width: 50%}
+    .contact-img-cont-wrap .contact-desc{padding-right: 0;width:50%;}
+    .footer-wrap .address-col{width:47%;}
+    .footer-wrap .contact-col{width:28%}
+    .footer-wrap .title-col{width:25%;}
+    .footer-wrap p{font-size:14px}
+    .search-bar-wrap ul.filter-listing li .filter-inner .img-thumb{width:20%}
+    .search-bar-wrap ul.filter-listing li .filter-inner .desc {width: 80%;} 
+    .two-col-img-cont-wrap .img-block{min-height: 380px}
+
+
+    .lees-meer-section .right-sec{
+        padding: 30px 130px 30px 20px;
+    }
+    .kalea-voor-mannen-section .col-7,
+    .kalea-voor-mannen-section .col-5{
+        width: 100%;
+    }
+    .kalea-voor-mannen-detail{
+        padding-left: 0;
+    }
+
+    .powerfull-img{
+        max-width: 324px;
+    }
+    .powerfull-section h1 {
+        font-size: 35px;
+    }
+    .powerfull-section h1 span {
+        font-size: 45px;
+        bottom: -20px;
+        left: 90px;
+    }
+    .treatments-inner {
+        margin-bottom: 40px;
+    }
+
+    .accordion-title{
+        padding: 15px 50px 15px 30px;
+        font-size: 16px;
+    }
+    .accordion-content{
+        font-size: 16px;
+    }
+    .new-treatment-section{
+        padding: 20px;
+    }
+    .transperent-btn-blue, 
+    .transperent-btn-w{
+        padding: 10px 20px;
+    }
+
+    .two-column-grid-content {
+        max-width: 375px;
+    }
+    .quote-section p{
+        font-size: 22px;
+    }
+    .quote-inner-section p{
+        font-size: 28px;
+    }
+    .hello-txt:before, .hello-txt:after, .quote-inner-section p:before, .quote-inner-section p:after{
+        height: 23px;
+        width: 27px;
+        background-size: 27px 23px;
+    }
+    .quote-sec-author{
+        font-size: 22px;
+    }
+    .quote-inner-section {
+        padding: 50px 0;
+    }
+    .treatment-title{
+        font-size: 18px;
+    }
+
+
+    .cart-inner{
+        padding: 0;
+        max-width: 140px;
+    }
+    .cart-inner h2{
+        font-size: 18px;
+    }
+    .price-sec .price{
+        font-size: 35px;
+    }
+    .price-sec span{
+        font-size: 16px;
+    }
+    .price-sec {
+        margin-bottom: 20px;
+    }
+
+    .over-ons-info {
+        padding-left: 50px;
+    }
+    .search-page-top h1{
+        margin-bottom: 50px;
+    }
+    .search-result{
+        padding: 35px 0;
+    }
+
+    .search-result h2 {
+        font-size: 20px;
+    }
+}
+
+@media(max-width: 991px){
+    /* mobile menu css */
+    .hamburger-box{
+        display: inline-block;
+    }
+    .main-menu,
+    .join-club-logo,
+    .header-right-top{
+        display: none;
+    }
+    .site-header{
+        padding: 23px 20px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+    }
+    .header-outer{
+        width: auto;
+    }
+
+    /* mobile menu css */
+
+    .review-section .container,
+    .container{
+        max-width: 750px;
+    }
+
+    .inject-img{
+        display: none;
+    }
+    .hello-section,
+    .powerfull-section,
+    .book-consultent-section,
+    .video-section,
+    .ultherapy-section,
+    .accordion-section,
+    .instagram-section,
+    .footer-upper,
+    .three-grid-section, 
+    .fractional-specialisten-section,
+    .review-section,
+    .quote-inner-section,
+    .newsletter-sec,
+    .cart-section,
+    .contact-top-section,
+    .over-ons-intro-section,
+    .search-page-top,
+    .blog-post-section{
+        padding: 50px 0;
+    }
+    .hello-txt {
+        font-size: 50px;
+    }
+    .author-pos{
+        font-size: 14px;
+    }
+    .powerfull-section h1{
+        font-size: 32px;
+    }
+    .book-consultent-img{
+        margin-bottom: 20px;
+    }
+    .lees-meer-section .right-sec{
+        max-width: 100%;
+        padding: 30px 0 30px 0;
+    }
+    .lees-meer-img{
+        -webkit-box-ordinal-group: 0;
+            -ms-flex-order: -1;
+                order: -1;
+        margin: 0 auto;
+    }
+    .ultherapy-inner .right-sec{
+        padding: 20px 0px;
+        max-width: 100%;
+    }
+    .title-para-link-outer .col-3{
+        width: 50%;
+    }
+    .kalea-voor-mannen-img-sec{
+        max-width: 450px;
+        margin: 0 auto 20px;
+    }
+    .instagram-txt{
+        font-size: 60px;
+        position: static;
+    }
+    .insta-btn{
+        margin: 20px 0;
+    }
+    .treatments-inner {
+        margin-bottom: 30px;
+    }
+    #play{
+        height: 55px;
+        width: 55px;
+    }
+
+    .heading-para-full-section h1,
+    .content-right-result h2,
+    .video-section .txt2,
+    .heading-para-full-section h2, 
+    .testimonial-section h2, 
+    .advice-section h2, 
+    .new-treatment-section h2,
+    h2,
+    .ontdek-street-section h2,
+    .three-grid-section h2, .fractional-specialisten-section h2,
+    .blog-post-inner > h2,
+    .newsletter-title h2,
+    .kalea-voor-mannen-detail h2{
+        font-size: 25px;
+    }
+    .newsletter-title h2{
+        margin-bottom: 20px;
+    }
+
+    .looking-good-txt{
+        font-size: 38px;
+    }
+
+    .three-grid-inner .treatments-img, .fractional-specialisten-inner .treatments-img {
+        width: 200px;
+        height: 200px;
+        margin: 0 auto 15px;
+    }
+    .treatment-title{
+        font-size: 16px;
+    }
+    .banner-heading {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .banner-content p{
+        margin-bottom: 30px;
+    }
+
+    .two-column-grid-img {
+        padding-bottom: 60%;
+    }
+    .two-column-grid-content {
+        padding: 20px 15px 20px 30px;
+        max-width: inherit;
+    }
+    .two-column-grid-reverse-content {
+        padding: 40px 15px 40px 0;
+        max-width: 360px;
+    }
+    .quote-section p{
+        font-size: 20px;
+    }
+    .quote-inner-section p{
+        font-size: 25px;
+    }
+    .blue-btn{
+        padding: 13px 20px;
+    }
+
+    .ervaringen-detail-banner-inner .banner-content{
+        padding: 150px 15px;
+    }
+    .blog-filter-result .col-4 {
+        margin-bottom: 40px;
+    }
+
+    .blog-filter-result h1{
+        margin-bottom: 40px;
+    }
+    .blog-filter-option {
+        margin: 0 0 40px;
+    }
+
+
+    .price-sec .price {
+        font-size: 25px;
+    }
+    .price-sec {
+        margin-bottom: 10px;
+    }
+
+
+    
+    .header-right-bottom{
+        display: none;
+        position: fixed;
+        max-height: 100vh;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        overflow-y: auto;
+        background-color: #28199e;
+        overflow-x: hidden;
+        height: 100%;  
+    }
+    .main-menu{
+        display: block;
+    }
+    .main-menu ul{
+        padding-top: 100px;
+    }
+    .menu-level-1 {
+        position: relative;
+        left: 0;
+        right: 0;
+        top: 0;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        z-index: 9;
+        width: 100%;
+        height: auto;
+        -webkit-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+    }
+    .menu-level-1 > li {
+        display: block;
+        padding: 0;
+        position: static;
+        width: 100%;
+    }
+    .menu-level-1 li,
+    .menu-level-2 li,
+    .menu-level-3 li,
+    .menu-level-4 li{
+        border-bottom: 1px solid #fff;  
+        padding: 0;
+    }
+    .menu-level-1 > li > a,
+    .menu-level-2 > li > a,
+    .menu-level-3 > li > a,
+    .menu-level-4 > li > a{
+        color: #fff;
+        padding: 10px 15px;
+    }
+    .menu-level-2 > li > a{
+        padding: 20px 15px;
+    }
+    .menu-level-1 li a{
+        position: relative;
+    }
+    .menu-level-1 li > a .submenuLink{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        position: absolute;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        width: 40px;
+        background-color: #fff;
+        font-size: 21px;
+        color: #28199e;
+    }
+    .show-submenu .menu-level-1{
+        -webkit-transform: translateX(-100%);
+        -ms-transform: translateX(-100%);
+        transform: translateX(-100%); 
+    }
+    .submenu{
+        position: absolute;
+        left: 100%;
+        top: 0;
+        width: 100%;
+        min-height: 100vh;
+        -webkit-transition: all 0.4s linear;
+        -o-transition: all 0.4s linear;
+        transition: all 0.4s linear;
+        background-color: #060525;
+        z-index: 9;
+    }
+    .menu-level-1 li a .submenuLink:after{
+        content: '\f054';
+        font-family: "Font Awesome 5 Pro";
+        
+    }
+    .menu-level-1 li a:hover,
+    .menu-level-1 > li > a:focus{
+        background-color: #fff;
+        color: #28199e;
+    }
+    .submenu-outer{
+        display: block;
+        left: 100%;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        background-color: #28199e;
+        -webkit-transform: translateY(0);
+        -ms-transform: translateY(0);
+        transform: translateY(0);
+        overflow-x: hidden;
+    }
+    .submenu-inner{
+        opacity: 1;
+        visibility: visible;
+    }
+    .show-submenu .submenu-outer{
+        display: block;
+        left: 0;
+        top: 0;
+        width: 100%;
+        left: 100%;
+    }
+    .submenu-outer ul{
+        width: 100%;
+        opacity: 1;
+        visibility: visible;
+    }
+    .submenu-inner{
+        width: 100%;
+    }
+
+    .menu-level-2 > li > a {
+        opacity: 1;
+        color: #fff;
+        display: block;
+        width: 100%;
+    }
+    .menu-level-2:after{
+        display: none;
+    }
+    /*.show-submenu.ul{
+        left: -100%;
+    }*/
+    .show-submenu.ul > li > ul{
+        left: 0;
+    }
+    .menu-level-3{
+        left: 100%;
+        background-color: #28199e;
+    }
+    .menu-level-3 li a{
+        display: block;
+        width: 100%;
+        opacity: 1;
+        padding: 10px 15px;
+    }
+    /*.submenu-inner ul{
+        -webkit-transition: all 0.3s ease-in-out;
+        -moz-transition: all 0.3s ease-in-out;
+        -ms-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+    }*/
+    ul.show-submenu{
+        left: -100%;
+    }
+    .menu-level-2{    
+        -webkit-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+        left: 0;
+    }
+    .menu-level-3{
+        padding-bottom: 0 !important;
+    }
+    .menu-level-3 > li:last-child{
+        position: static;
+    }
+    .menu-level-2 > li:last-child > .menu-level-3,
+    .menu-level-2 > li:last-child > .menu-level-3 > li{
+        width: 100%;
+    }
+    ul.menu-level-3.show-submenu {
+        left: -100%;
+    }
+    ul.menu-level-3{
+    -webkit-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+        left: 0;
+    }
+    .submenu-outer ul ul ul {
+        left: 200%;
+        background-color: #28199e;
+    }
+    .back-arrow-li{
+        display: inline-block;
+    }
+    .back-arrow{
+        display: inline-block;
+        position: absolute;
+        right: 0;
+        top: 40px;
+        height: 40px;
+        width: 40px;
+        background-color: #fff;
+        color: #000;
+        font-size: 22px;
+        text-align: center;
+        line-height: 40px;
+    }
+    .back-arrow:hover{
+        background-color: #000;
+        color: #fff;
+    }
+    .back-arrow:after{
+        content: '\f053';
+        font-family: "Font Awesome 5 Pro";
+    }
+    .main-menu > .back-arrow{
+        display: none;
+    }
+
+
+    .search-result{
+        padding: 30px 0;
+    }
+    .search-page-top h1{
+        margin-bottom: 40px;
+    }
+    .search-result h2 {
+        font-size: 18px;
+    }
+
+    .contact-info-section .row{
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .contact-info-section .col-4{
+        width: 50%;
+    }
+    .contact-detail-inner h6{
+        margin-bottom: 10px;
+    }
+
+    .accordian-form{
+        padding: 0;
+    }
+}
+
+@media(max-width: 768px){
+    .three-col-listing .col-box{width: 100%}
+    .three-col-listing{margin:0 0 35px;}
+    .three-col-listing .col-box.slick-slide{width:450px !important;margin:0 15px}
+    .three-col-listing .col-box .col-desc{min-height: 179px}
+}
+
+@media(max-width: 767px){
+    h1, 
+    .over-ons-head h1,
+    .search-page-top h1,
+    h2,
+    .two-column-grid-reverse-content h1, 
+    .face-slider-section h2, 
+    .face-slde-img-sec span{
+        font-size: 28px;
+    }
+    .review-section h3, h3{font-size: 20px; margin-bottom: 15px;}
+    .site-header{height: 70px;}
+    .header-main .header-top-bar{display: none;}
+    .header-wrap{padding:23px 0 22px}
+    .hero-banner{min-height: 480px}
+    .two-col-cont{-ms-flex-wrap: wrap;flex-wrap: wrap;}
+    .left-title{width:100%;padding-right: 0}h
+    .banner-cont h1{margin-bottom: 10px}
+    .right-title{width:100%;}
+    .right-title h4{font-size: 40px}
+
+    .sec-search-bar{top:0;}
+    .search-bar-wrap{width:100%;position: relative;}
+    .search-bar-wrap .search-box{width:100%;height: auto;width:100%;}
+    .search-bar-wrap .search-box .two-col-control .search-icon{display: none}
+    .search-bar-wrap .cta-button{width: auto;position: absolute;right:-15px;}
+    .search-bar-wrap .cta-button a{font-size: 0}
+    .search-bar-wrap .cta-button a span{display: inline-block;padding: 14px}
+    .search-bar-wrap .cta-button.active .search-icon{display:none;}
+    .search-bar-wrap .cta-button.active .cross-icon{display:inline-block;}
+    .search-bar-wrap .search-box{padding:0;}
+    .search-bar-wrap .search-box .two-col-control{padding: 25px 0px 20px 0px}
+    .search-bar-wrap .search-box .two-col-control input[type="search"]{width:90%;margin:0 auto 0 0;}
+    .search-bar-wrap .search-box .two-col-control input[type="submit"]{width: 10%; -webkit-box-ordinal-group: 3; -ms-flex-order: 2; order: 2; background: #F5F7FB url(../images/search-icon.svg) center center no-repeat; height: 65px; line-height: 65px; position: absolute; right: -15px; top: 0px; background-size: 20px;}
+    .sec-two-col-img-cont{padding:45px 0 25px}
+    .sec-two-col-img-cont .container{padding:0;}
+    .two-col-img-cont-wrap{-ms-flex-wrap: wrap;flex-wrap: wrap}
+    .two-col-img-cont-wrap .img-block{width: 100%;position: relative;-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2;min-height: 340px}
+
+    .two-col-img-cont-wrap .content{width: 100%;-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1;padding: 0 15px 30px}
+    .two-col-img-cont-wrap .content h2{margin-bottom: 10px}
+    .sec-article{padding:25px 0;}
+    .sec-podcast{padding:25px 0}
+    .sec-article .btn-wrap.text-center{text-align:left;}
+    .sec-podcast .btn-wrap.text-center{text-align:left;}
+    .search-bar-wrap .filter-main{padding:25px 20px 10px;}
+    .bg-image{width:100%;min-height: 294px;}
+    .sec-contact-two-col-img-cont{padding: 50px 0}
+
+    .search-bar-wrap .search-box .two-col-control input[type="search"]{width: 85%}
+    .contact-img-cont-wrap .contact-img-box img{width:100%;}
+    .contact-img-cont-wrap .contact-img-box .bnhm-logo{width:52px;bottom: -1px}
+    .contact-img-cont-wrap{-ms-flex-wrap: wrap;flex-wrap: wrap;}
+    .contact-img-cont-wrap{padding: 0;}
+    .contact-img-cont-wrap .contact-img-box{width:100%;padding-right: 0;-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2;}
+    .contact-img-cont-wrap .contact-desc{width:100%;padding-right: 0;-webkit-box-ordinal-group: 2;-ms-flex-order: 1;order: 1;padding-bottom: 45px;}
+    .footer-main{padding:50px 0 45px}
+    .footer-wrap p{font-size: 16px}
+    .footer-wrap{-ms-flex-wrap: wrap;flex-wrap: wrap;}
+    .address-col .cols{width: 50%}
+    .footer-wrap .address-col{width: 100%;}
+    .footer-wrap .contact-col{width:50%;margin-bottom: 25px;}
+    .footer-wrap .title-col{width:50%;}
+    .copyright{-ms-flex-wrap: wrap;flex-wrap: wrap;}
+    .copyright .footer-logo{margin-bottom: 20px}
+    .footer-links{width:100%;text-align: left;}
+    .footer-links-wrap{-ms-flex-wrap: wrap;flex-wrap: wrap;-webkit-box-pack: start;-ms-flex-pack: start;justify-content: flex-start;}
+    .footer-links-wrap p{margin-right:0;width:100%;margin-bottom: 5px}
+    .footer-links:after{ width: 120%; left: -20px; right: 0; bottom: -19px; top: inherit; margin: 0 auto; }
+
+
+
+    .desk-show{
+        display: none;
+    }
+    .mbl-show{
+        display: block;
+    }
+
+    .banner-back {
+        position: static;
+        padding-bottom: 60%;
+    }
+    .inner-page-banner {
+        padding: 0;
+    }
+    .inner-page-banner .banner-content {
+        max-width: inherit;
+        position: relative;
+        background-color: #fff;
+        padding: 30px 15px;
+        max-width: 750px;
+        margin: 0 auto;
+    }
+    .inner-page-banner .container{
+        width: 100%;
+        padding: 0;
+        background-color: #fff;
+    }
+
+
+    [class*='col-']{
+        width: 100%;
+    }
+
+    .lees-meer-section .col-5{
+        -webkit-box-ordinal-group: 0;
+            -ms-flex-order: -1;
+                order: -1;
+    }
+
+    .hello-section,
+    .powerfull-section,
+    .book-consultent-section,
+    .video-section,
+    .ultherapy-section,
+    .accordion-section,
+    .instagram-section,
+    .footer-upper,
+    .three-grid-section, 
+    .fractional-specialisten-section,
+    .ontdek-street-section,
+    .review-section,
+    .quote-inner-section,
+    .quote-inner-section,
+    .cart-section,
+    .contact-top-section,
+    .over-ons-intro-section,
+    .search-page-top,
+    .blog-post-section{
+        padding: 40px 0;
+    }
+    .title-para-link-sec{
+        padding-bottom: 0;
+    }
+    .hello-txt {
+        font-size: 40px;
+    }
+    .author-name{
+        font-size: 15px;
+    }
+    .author-pos{
+        font-size: 12px;
+    }
+    .powerfull-section h1{
+        font-size: 30px;
+    }
+    .powerfull-section h1 span{
+        font-size: 42px;
+    }
+    .home-banner.mbl-show{
+        padding: 20px 0;
+    }
+    .home-banner-title{
+        margin: 0 0 29px;
+        font-size: 36px;
+        font-weight: 600;
+        line-height: 1.17;
+        color: #28199e;
+    }
+    .home-banner .blue-btn{
+        font-weight: 500;
+        text-transform: none;
+    }
+    .powerfull-inner, .book-consultent-section, .lees-meer-section, .ultherapy-inner{
+        padding: 0 15px;
+    }
+    .powerfull-img{
+        margin-bottom: 20px;
+    }
+    .ultherapy-img img,
+    .book-consultent-img img,
+    .lees-meer-img img,
+    .powerfull-img img{
+        display: block;
+        max-width: 480px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .powerfull-img,
+    .powerfull-section .right-sec{
+        max-width: 100%;
+    }
+    .powerfull-section .right-sec{
+        padding-left: 0;
+        text-align: center;
+    }
+    .powerfull-section h1{
+        margin: 0 auto;
+    }
+    .looking-good-txt{
+        position: static;
+        margin: 0 auto;
+        display: block;
+        text-align: center;
+    }
+    .powerfull-section h1 span{
+        position: static;
+    }
+    .testimonial-section .col-6,
+    .advice-section .col-7,
+    .advice-section .col-5{
+        width: 100%;
+    }
+    .ultherapy-section .right-sec{
+        max-width: inherit;
+        padding: 20px 0px 20px 0;
+    }
+    .img-grid-outer{
+        -webkit-box-ordinal-group: 0;
+            -ms-flex-order: -1;
+                order: -1;
+    }
+    .advice-detail{
+        padding: 20px 0 0;
+    }
+    .testim-image,
+    .advice-image{
+        max-width: 480px;
+        margin: 0 auto;
+    }
+    .treatments-inner {
+        margin-bottom: 20px;
+    }
+
+    .new-treatment-section{
+        padding: 15px;
+    }
+
+    .footer-container{
+        max-width: 100%;
+    }
+    .footer-container .row .col-3:nth-child(1){
+        width: 100%;
+    }
+    .footer-container .row .col-3{
+        width: 33.33%;
+    }
+    .footer-logo{
+        margin: 0 auto 20px;
+    }
+    .search-page-top h1,
+    .heading-para-full-section h1,
+    .over-ons-head h1,
+    .content-right-result h2,
+    .heading-para-full-section h2, 
+    .testimonial-section h2, 
+    .advice-section h2, 
+    .new-treatment-section h2,
+    .three-grid-section h2, 
+    .fractional-specialisten-section h2,
+    h2,
+    .blog-post-inner > h2,
+    .newsletter-title h2,
+    .kalea-voor-mannen-detail h2{
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    .video-section .txt1{
+        font-size: 20px;
+    }
+    .video-section .txt2{
+        font-size: 22px;
+    }
+    .fractional-right-inn{
+        margin: 0 auto;
+    }
+    .fractional-microneedling-outer h2,
+    .fractional-microneedling-outer h3{
+        margin-bottom: 10px;
+    }
+    .three-grid-section .col-4,
+    .fractional-specialisten-section .col-4{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+    .two-column-grid-content {
+        padding: 20px 15px 20px 15px;
+    }
+    .two-column-grid-reverse-section{
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+    .two-column-grid-reverse-img {
+        padding-bottom: 100%;
+    }
+    .two-column-grid-reverse-content{
+        padding: 20px 15px;
+        max-width: inherit;
+    }
+
+    .hello-txt:before, .hello-txt:after, .quote-inner-section p:before, .quote-inner-section p:after {
+        height: 18px;
+        width: 22px;
+        background-size: 22px 18px;
+    }
+    .quote-sec-author {
+        font-size: 18px;
+    }
+    .quote-inner-section p{
+        font-size: 22px;
+        letter-spacing: normal;
+        margin-bottom: 15px;
+    }
+    .face-slider-section {
+        padding: 20px 0 0px;
+    }
+    .ervaringen-detail-banner-img {
+        height: 100%;
+        background-size: cover;
+        background-position: center center;
+        padding-bottom: 79%;
+    }
+    .ervaringen-detail-banner-inner{
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+            -ms-flex-direction: column-reverse;
+                flex-direction: column-reverse;
+    }
+    .ervaringen-detail-banner-inner .banner-content {
+        padding: 20px 15px;
+        max-width: inherit;
+        margin: 0;
+    }
+
+    .col-4{
+        width: 50%;
+    }
+    .blog-filter-result .col-4 {
+        margin-bottom: 30px;
+    }
+    .newsletter-sec .col-4{
+        width: 100%;
+    }
+    .newsletter-title{
+        text-align: center;
+    }
+
+    .blog-filter-result h1{
+        margin-bottom: 30px;
+    }
+    .blog-filter-option {
+        margin: 0 0 35px;
+    }
+    .blog-filter-option li {
+        padding: 0 10px;
+        margin-bottom: 10px;
+    }
+    .blog-filter-option li a{
+        padding-bottom: 5px;
+    }
+
+    .cart-section .col-3{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .contact-image-sec{
+        margin: 0 auto 30px;
+        max-width: 450px;
+    }
+    .contact-right-sec{
+        margin: 0 auto;
+    }
+    .contact-right-sec h1{
+        text-align: center;
+    }
+    .over-ons-intro-section .col-4,
+    .over-ons-intro-section .col-8{
+        width: 100%;
+    }
+    .over-ons-intro-section .col-4{
+        margin-bottom: 20px;
+    }
+    .over-ons-intro-section{
+        text-align: center;
+    }
+    .over-ons-intro-section br{
+        display: none;
+    }
+
+    .over-ons-info {
+        padding-left: 0;
+    }
+
+    .tooltip .tooltip-content{
+        left: 100%;
+    }
+    .tooltip .tooltip-content:before{
+        margin-left: -70px;
+    }
+
+    .search-page-top h1{
+        margin-bottom: 30px;
+    }
+    .page-nav{
+        padding: 0 10px;
+    }
+    .page-nav li a {
+        margin: 0 5px;
+    }
+    .text-link{
+        font-size: 10px;
+    }
+    .prev-nav:before {
+        margin-right: 6px;
+    }
+    .next-nav:after {
+        margin-left: 6px;
+    }
+}
+   
+@media(max-width:640px){   
+    h1, h2,
+    .two-column-grid-reverse-content h1, 
+    .face-slider-section h2, 
+    .face-slde-img-sec span,
+    .contact-info-top h2{
+        font-size: 22px;
+    } 
+    .address-col .cols{width: 100%}
+    .two-col-img-cont-wrap .img-block{min-height: 294px}
+    .footer-wrap .address-col{width: 100%;-ms-flex-wrap: wrap;flex-wrap: wrap;}
+    .footer-wrap .contact-col{width:100%;margin-bottom: 25px;}
+    .footer-wrap .title-col{width:100%;}
+    .search-bar-wrap ul.filter-listing li .filter-inner .img-thumb{width:25%}
+    .search-bar-wrap ul.filter-listing li .filter-inner .desc {width: 75%;} 
+    .search-bar-wrap .search-box .two-col-control input[type="search"]{width: 75%}
+
+
+    .content-filter-option ul{
+        display: none !important;
+    }
+    .content-left-menu,
+    .content-right-result{
+        max-width: inherit;
+    }
+    .content-left-menu{
+        margin-bottom: 20px;
+    }
+
+    .content-filter-option{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+                flex-direction: row;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .content-filter-option:before{
+        display: none;
+    }
+    .content-filter-option li {
+        padding: 0;
+        margin: 0 8px 10px;
+    }
+    .content-filter-option li:before{
+        width: 100%;
+        height: 1px;
+        bottom: 0;
+        top: auto;
+        left: 0;
+        right: 0;
+    }
+
+    .quote-inner-section p{
+        font-size: 20px;
+    }
+
+    ul.show-submenu {
+        left: -100% !important;
+    }
+
+    .contact-info-section .col-4{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .contact-info-section .row .col-4:last-child{
+        margin-bottom: 0;
+    }
+    .contact-detail-inner{
+        text-align: center;
+    }
+    .contact-info-section {
+        padding: 20px 0;
+    }
+}
+
+@media(max-width: 480px){
+    .three-col-listing .col-box.slick-slide{width: 290px !important}
+    .search-bar-wrap ul.filter-listing li .filter-inner{-ms-flex-wrap: wrap;flex-wrap: wrap;}
+     .search-bar-wrap ul.filter-listing li .filter-inner .img-thumb{width:100%;margin-bottom: 25px;margin-right: 0}
+     .search-bar-wrap ul.filter-listing li .filter-inner .img-thumb .bg-thumb{height: inherit;padding-bottom:56.25%}
+    .search-bar-wrap ul.filter-listing li .filter-inner .desc {width: 100%;} 
+
+
+    .hello-section,
+    .powerfull-section,
+    .book-consultent-section,
+    .video-section,
+    .ultherapy-section,
+    .accordion-section,
+    .instagram-section,
+    .footer-upper,
+    .three-grid-section, 
+    .fractional-specialisten-section,
+    .ontdek-street-section,
+    .review-section,
+    .quote-inner-section,
+    .newsletter-sec,
+    .cart-section,
+    .contact-top-section,
+    .over-ons-intro-section,
+    .search-page-top,
+    .blog-post-section{
+        padding: 30px 0;
+    }
+    /*h2,
+    .head-para-inner h2,
+    .book-consultent-section .right-sec h2,
+    .ultherapy-section h2, 
+    .lees-meer-inner h2{
+        font-size: 36px;
+    }
+    p{
+        font-size: 18px;
+    }*/
+    .hello-txt {
+        font-size: 34px;
+    }
+    .author-name{
+        font-size: 10px;
+    }
+    .author-pos{
+        font-size: 8px;
+    }
+    .powerfull-section h1{
+        font-size: 26px;
+    }
+    .title-para-link-outer .col-3{
+        width: 100%;
+    }
+    .kalea-voor-mannen-img-sec{
+        text-align: center;
+    }
+    .img-lft,
+    .img-rht{
+        width: 100%;
+        padding: 0;
+    }
+    .looking-good-txt {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    .insta-top .insta-image-link:nth-child(1),
+    .insta-bottom .insta-image-link {
+        margin-right: 25px;
+    }
+    .instagram-txt {
+        font-size: 40px;
+    }
+
+    .three-grid-section .col-4,
+    .fractional-specialisten-section .col-4{
+        width: 100%;
+    }
+
+    .footer-container .row .col-3,
+    .footer-bottom .col-6{
+        width: 100%;
+    }
+    .footer-bottom :before{
+        width: 100%;
+    }
+    .copyright-text{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .footer-menu, .address-detail,
+    .footer-social{
+        text-align: center;
+    }
+
+    .review-upper-left,
+    .star-rating{
+        width: 100%;
+        padding-left: 0;
+    }
+    .review-upper-left,
+    .review-upper{
+        margin-bottom: 5px;
+    }
+    .review-img{
+        margin-bottom: 10px;
+    }
+    .review-detail{
+        max-width: inherit;
+        padding-left: 0;
+    }
+
+    .two-column-grid-img {
+        padding-bottom: 70%;
+    }
+
+    .quote-section p{
+        font-size: 18px;
+    }
+
+
+    .blog-filter-option {
+        margin: 0 0 15px;
+    }
+    .blog-filter-result h1{
+        margin-bottom: 20px;
+    }
+    .cart-section .col-3,
+    .col-4{
+        width: 100%;
+    }
+
+    .page-nav {
+        padding: 0 5px;
+    }
+    .page-nav li a {
+        margin: 0 4px;
+    }
+    .newsletter-form-outer .gform-body,
+    .newsletter-form-outer .gform_footer{
+        max-width: inherit;
+    }
+    .newsletter-form-outer .gform-body{
+        margin-bottom: 20px;
+    }
+    .newsletter-form-outer .gform_footer{
+        text-align: center;
+    }
+}
